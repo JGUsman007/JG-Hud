@@ -1,8 +1,6 @@
 body{
-   background-image: url("https://cdn.wccftech.com/wp-content/uploads/2021/12/Grand-Theft-Auto-V-8K-Showcase-Volumetric-Lights-scaled.jpg");
-    height: 100%;
-	background-size: cover;
     overflow: hidden;
+    display: none;
 }
 
 .container{
@@ -11,7 +9,6 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     text-align: right;
     right: 2%;
-    
 }
 
 #bank{
