@@ -1,0 +1,62 @@
+body{
+   background-image: url("https://cdn.wccftech.com/wp-content/uploads/2021/12/Grand-Theft-Auto-V-8K-Showcase-Volumetric-Lights-scaled.jpg");
+    height: 100%;
+	background-size: cover;
+    overflow: hidden;
+}
+
+.container{
+    position: relative;
+    float: right;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: right;
+    right: 2%;
+    
+}
+
+#bank{
+    font-size: large;
+    font-weight:550;
+    color: rgba(255, 255, 255, 0.849);
+}
+#money{
+    font-weight:550;
+    color: #ffffffb4;
+    margin-top: 20px;
+}
+
+#id{
+    margin-top: 2px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    text-align: right;
+    font-weight: 550;
+    color: rgba(255, 255, 255, 0.849);
+}
+
+
+#job-cont{
+    background-image: linear-gradient(to right, #b3b3b300,#c7c7c794);
+    text-align: right;
+}
+
+#job{
+    margin-top: 5%;
+    text-align: right;
+    font-size: 25px;
+    color: #f8f8f8;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 5px;
+    font-family:fantasy;
+    
+}
+
+#grade{
+    padding-bottom: 5px;
+    padding-right: 10px;
+    text-align: right;
+    font-weight: 550;
+    color: rgba(255, 255, 255, 0.849);
+}
+
