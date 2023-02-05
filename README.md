@@ -2,7 +2,7 @@
 Simple Hud for showing job and cash
 
 
-![Preview](https://cdn.discordapp.com/attachments/939573467349655602/1020472088697520128/unknown.png)
+![Preview](https://cdn.discordapp.com/attachments/985595018800681000/1071842377309892618/jghud.PNG)
 
 <h1 align='center'>Install Guide</a></h1>
 
