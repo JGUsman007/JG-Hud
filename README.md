@@ -9,3 +9,4 @@ Simple Hud for showing job and cash
 - Insert `JG-Hud` into your resources folder
 - add the following to your server cfg:
   - `ensure JG-Hud`
+The server logo size should be 100px by 100px
